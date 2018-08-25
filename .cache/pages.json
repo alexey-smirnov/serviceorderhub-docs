@@ -1,0 +1,79 @@
+[
+    {
+        "componentChunkName": "component---src-templates-lesson-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "lesson-five.json",
+        "path": "/lesson-five"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "post-one.json",
+        "path": "/post-one"
+    },
+    {
+        "componentChunkName": "component---src-templates-lesson-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "lesson-four.json",
+        "path": "/lesson-four"
+    },
+    {
+        "componentChunkName": "component---src-templates-lesson-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "lesson-one.json",
+        "path": "/lesson-one"
+    },
+    {
+        "componentChunkName": "component---src-templates-lesson-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "lesson-six.json",
+        "path": "/lesson-six"
+    },
+    {
+        "componentChunkName": "component---src-templates-lesson-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "lesson-three.json",
+        "path": "/lesson-three"
+    },
+    {
+        "componentChunkName": "component---src-templates-lesson-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "lesson-two.json",
+        "path": "/lesson-two"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "categories-tech.json",
+        "path": "/categories/tech/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-about-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "index.json",
+        "path": "/"
+    }
+]
